@@ -1,0 +1,15 @@
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\bin\Debug\net6.0\LocadoraVeiculos.exe
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\bin\Debug\net6.0\LocadoraVeiculos.deps.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\bin\Debug\net6.0\LocadoraVeiculos.runtimeconfig.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\bin\Debug\net6.0\LocadoraVeiculos.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\bin\Debug\net6.0\LocadoraVeiculos.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\obj\Debug\net6.0\LocadoraVeiculos.csproj.AssemblyReference.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\obj\Debug\net6.0\LocadoraVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\obj\Debug\net6.0\LocadoraVeiculos.AssemblyInfoInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\obj\Debug\net6.0\LocadoraVeiculos.AssemblyInfo.cs
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\obj\Debug\net6.0\LocadoraVeiculos.csproj.CoreCompileInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\obj\Debug\net6.0\LocadoraVeiculos.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\obj\Debug\net6.0\refint\LocadoraVeiculos.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\obj\Debug\net6.0\LocadoraVeiculos.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\obj\Debug\net6.0\LocadoraVeiculos.genruntimeconfig.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\LocadoraVeiculos\obj\Debug\net6.0\ref\LocadoraVeiculos.dll
