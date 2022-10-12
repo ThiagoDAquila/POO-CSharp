@@ -1,0 +1,15 @@
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\bin\Debug\net6.0\ContratoDeParcelamento.exe
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\bin\Debug\net6.0\ContratoDeParcelamento.deps.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\bin\Debug\net6.0\ContratoDeParcelamento.runtimeconfig.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\bin\Debug\net6.0\ContratoDeParcelamento.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\bin\Debug\net6.0\ContratoDeParcelamento.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\obj\Debug\net6.0\ContratoDeParcelamento.csproj.AssemblyReference.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\obj\Debug\net6.0\ContratoDeParcelamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\obj\Debug\net6.0\ContratoDeParcelamento.AssemblyInfoInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\obj\Debug\net6.0\ContratoDeParcelamento.AssemblyInfo.cs
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\obj\Debug\net6.0\ContratoDeParcelamento.csproj.CoreCompileInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\obj\Debug\net6.0\ContratoDeParcelamento.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\obj\Debug\net6.0\refint\ContratoDeParcelamento.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\obj\Debug\net6.0\ContratoDeParcelamento.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\obj\Debug\net6.0\ContratoDeParcelamento.genruntimeconfig.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ContratoDeParcelamento\obj\Debug\net6.0\ref\ContratoDeParcelamento.dll
