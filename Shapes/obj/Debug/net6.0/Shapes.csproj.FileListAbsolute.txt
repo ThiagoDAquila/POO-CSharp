@@ -1,0 +1,15 @@
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\bin\Debug\net6.0\Shapes.exe
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\bin\Debug\net6.0\Shapes.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\obj\Debug\net6.0\Shapes.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\obj\Debug\net6.0\Shapes.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\Shapes\obj\Debug\net6.0\ref\Shapes.dll
