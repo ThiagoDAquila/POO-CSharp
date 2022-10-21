@@ -1,0 +1,15 @@
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\bin\Debug\net6.0\QuantityVotes.exe
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\bin\Debug\net6.0\QuantityVotes.deps.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\bin\Debug\net6.0\QuantityVotes.runtimeconfig.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\bin\Debug\net6.0\QuantityVotes.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\bin\Debug\net6.0\QuantityVotes.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\obj\Debug\net6.0\QuantityVotes.csproj.AssemblyReference.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\obj\Debug\net6.0\QuantityVotes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\obj\Debug\net6.0\QuantityVotes.AssemblyInfoInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\obj\Debug\net6.0\QuantityVotes.AssemblyInfo.cs
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\obj\Debug\net6.0\QuantityVotes.csproj.CoreCompileInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\obj\Debug\net6.0\QuantityVotes.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\obj\Debug\net6.0\refint\QuantityVotes.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\obj\Debug\net6.0\QuantityVotes.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\obj\Debug\net6.0\QuantityVotes.genruntimeconfig.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityVotes\obj\Debug\net6.0\ref\QuantityVotes.dll
