@@ -1,0 +1,15 @@
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\bin\Debug\net6.0\AccessCount.exe
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\bin\Debug\net6.0\AccessCount.deps.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\bin\Debug\net6.0\AccessCount.runtimeconfig.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\bin\Debug\net6.0\AccessCount.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\bin\Debug\net6.0\AccessCount.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\obj\Debug\net6.0\AccessCount.csproj.AssemblyReference.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\obj\Debug\net6.0\AccessCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\obj\Debug\net6.0\AccessCount.AssemblyInfoInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\obj\Debug\net6.0\AccessCount.AssemblyInfo.cs
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\obj\Debug\net6.0\AccessCount.csproj.CoreCompileInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\obj\Debug\net6.0\AccessCount.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\obj\Debug\net6.0\refint\AccessCount.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\obj\Debug\net6.0\AccessCount.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\obj\Debug\net6.0\AccessCount.genruntimeconfig.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\AccessCount\obj\Debug\net6.0\ref\AccessCount.dll
