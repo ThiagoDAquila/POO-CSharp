@@ -1,0 +1,15 @@
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\bin\Debug\net6.0\QuantityStudent.exe
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\bin\Debug\net6.0\QuantityStudent.deps.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\bin\Debug\net6.0\QuantityStudent.runtimeconfig.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\bin\Debug\net6.0\QuantityStudent.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\bin\Debug\net6.0\QuantityStudent.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\obj\Debug\net6.0\QuantityStudent.csproj.AssemblyReference.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\obj\Debug\net6.0\QuantityStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\obj\Debug\net6.0\QuantityStudent.AssemblyInfoInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\obj\Debug\net6.0\QuantityStudent.AssemblyInfo.cs
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\obj\Debug\net6.0\QuantityStudent.csproj.CoreCompileInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\obj\Debug\net6.0\QuantityStudent.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\obj\Debug\net6.0\refint\QuantityStudent.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\obj\Debug\net6.0\QuantityStudent.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\obj\Debug\net6.0\QuantityStudent.genruntimeconfig.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\QuantityStudent\obj\Debug\net6.0\ref\QuantityStudent.dll
