@@ -1,0 +1,15 @@
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\bin\Debug\net6.0\ExthensionMethod1.exe
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\bin\Debug\net6.0\ExthensionMethod1.deps.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\bin\Debug\net6.0\ExthensionMethod1.runtimeconfig.json
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\bin\Debug\net6.0\ExthensionMethod1.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\bin\Debug\net6.0\ExthensionMethod1.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\obj\Debug\net6.0\ExthensionMethod1.csproj.AssemblyReference.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\obj\Debug\net6.0\ExthensionMethod1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\obj\Debug\net6.0\ExthensionMethod1.AssemblyInfoInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\obj\Debug\net6.0\ExthensionMethod1.AssemblyInfo.cs
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\obj\Debug\net6.0\ExthensionMethod1.csproj.CoreCompileInputs.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\obj\Debug\net6.0\ExthensionMethod1.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\obj\Debug\net6.0\refint\ExthensionMethod1.dll
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\obj\Debug\net6.0\ExthensionMethod1.pdb
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\obj\Debug\net6.0\ExthensionMethod1.genruntimeconfig.cache
+D:\Cursos Complementares\Udemy\C#\POO + Projetos - Nélio Alves\ExthensionMethod1\obj\Debug\net6.0\ref\ExthensionMethod1.dll
